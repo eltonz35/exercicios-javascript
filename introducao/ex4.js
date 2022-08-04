@@ -16,3 +16,4 @@ let qntCombustivel = dinheiro / valorLitro;
 
 console.log(`O usuario tem ${dinheiro} reais em dinheiro`);
 console.log(`Pode comprar ${qntCombustivel}l de combustível`);
+console.log(`O carro consegue andar ${qntCombustivel*20}Km com  ${qntCombustivel}l de combustível`);
