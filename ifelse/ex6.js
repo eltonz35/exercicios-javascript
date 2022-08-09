@@ -29,7 +29,7 @@ if(salario <= 280) {
     x = 0.10;
     console.log(`O percentual aplicado foi de 10%, e o valor do aumento foi de ${salario * x} reais.`);
 }else  {
-    x = 0.5
+    x = 0.05
     console.log(`O percentual aplicado foi de 05%, e o valor do aumento foi de ${salario * x} reais.`);
 }
 
